@@ -36,4 +36,6 @@ Gabriel is a retired skateboarder, gearhead enthusiast, and boxer fighter as a h
 ![](https://github.com/Gabrielmadrid73/github-stats/blob/master/generated/languages.svg)
 
 
-![snake gif](https://github.com/Gabrielmadrid73/Gabrielmadrid73/blob/output/github-contribution-grid-snake.svg)
+## 📫 Linkedin
+
+https://www.linkedin.com/in/gabrielmadrid73/
