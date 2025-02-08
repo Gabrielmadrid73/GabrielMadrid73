@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Gabriel Madrid</h1>
 
-<!--
-**Gabrielmadrid73/GabrielMadrid73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">A passionate site reliability engineer from Brazil. </h1>
 
-Here are some ideas to get you started:
+A technology enthusiast with a strong technical background and communication focused on ensuring the reliability and performance of complex systems. Data-guided decision-making approach to troubleshoot, project priority/definition, solve problems, and optimize systems for operational excellence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A practical person, driving continuous improvement through data analysis, passionate about containers, engaged with the tech community through meetups and knowledge-sharing, fostering innovation and personal growth to reach business goals quicker and better than yesterday.
+
+Gabriel is a retired skateboarder, gearhead enthusiast, and boxer fighter as a hobby.
+
+### Specialties
+- Container Orchestration
+- Certified Kubernetes Administrator/Developer
+- AWS Solutions Architect
+- Site Reliability Engineering
+- DevOps culture
+- Networking
+- Infrastructure as Code (IaC)
+
+### Core competencies
+- Kubernetes
+- Infrastructure as Code (IaC) / Terraform
+- Amazon Web Services (AWS) / Solutions Architect
+- Troubleshooting
+- Python
+- Linux
+- Continuous Integration and Continuous Delivery (CI/CD)
+- Network Administration
+- Bash/shell scripting
+- Git
+
+---
+
+## &#x1f4c8; My Stats
+![](https://github.com/Gabrielmadrid73/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/Gabrielmadrid73/github-stats/blob/master/generated/languages.svg)
+
+
+![snake gif](https://github.com/Gabrielmadrid73/Gabrielmadrid73/blob/output/github-contribution-grid-snake.svg)
