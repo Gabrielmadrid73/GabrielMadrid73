@@ -6,7 +6,7 @@ A technology enthusiast with a strong technical background and communication foc
 
 A practical person, driving continuous improvement through data analysis, passionate about containers, engaged with the tech community through meetups and knowledge-sharing, fostering innovation and personal growth to reach business goals quicker and better than yesterday.
 
-Gabriel is a retired skateboarder, gearhead enthusiast, and boxer fighter as a hobby.
+Gabriel is a 👴 retired skateboarder 🛹, gearhead enthusiast 🚘, and boxer fighter 🥊🥊 as a hobby.
 
 ### ⚡ Specialties
 - Container Orchestration
