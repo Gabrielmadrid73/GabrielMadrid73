@@ -8,7 +8,7 @@ A practical person, driving continuous improvement through data analysis, passio
 
 Gabriel is a retired skateboarder, gearhead enthusiast, and boxer fighter as a hobby.
 
-### Specialties
+### ⚡ Specialties
 - Container Orchestration
 - Certified Kubernetes Administrator/Developer
 - AWS Solutions Architect
@@ -17,7 +17,7 @@ Gabriel is a retired skateboarder, gearhead enthusiast, and boxer fighter as a h
 - Networking
 - Infrastructure as Code (IaC)
 
-### Core competencies
+### ✨ Core competencies
 - Kubernetes
 - Infrastructure as Code (IaC) / Terraform
 - Amazon Web Services (AWS) / Solutions Architect
@@ -36,6 +36,6 @@ Gabriel is a retired skateboarder, gearhead enthusiast, and boxer fighter as a h
 ![](https://github.com/Gabrielmadrid73/github-stats/blob/master/generated/languages.svg)
 
 
-## 📫 Linkedin
+## 📫 Contact
 
 https://www.linkedin.com/in/gabrielmadrid73/
