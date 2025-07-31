@@ -10,7 +10,7 @@ Gabriel is a 👴 retired skateboarder 🛹, gearhead enthusiast 🚘, and boxer
 
 ### ⚡ Specialties
 - Container Orchestration
-- Certified Kubernetes Administrator/Developer
+- Certified Kubernetes Administrator/Developer/Security Specialist
 - AWS Solutions Architect
 - Site Reliability Engineering
 - DevOps culture
@@ -18,7 +18,7 @@ Gabriel is a 👴 retired skateboarder 🛹, gearhead enthusiast 🚘, and boxer
 - Infrastructure as Code (IaC)
 
 ### ✨ Core competencies
-- Kubernetes
+- Kubernetes (https://www.cncf.io/training/kubestronaut/?p=gabriel-madrid)
 - Infrastructure as Code (IaC) / Terraform
 - Amazon Web Services (AWS) / Solutions Architect
 - Troubleshooting
